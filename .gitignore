@@ -1,0 +1,10 @@
+<!Doctype HTML>
+<html>
+<head> 
+<title> marquee </title>
+
+<body> 
+<marquee behavior="alternate" > </marquee>
+</body>
+</head>
+</html>
